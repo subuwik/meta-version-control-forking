@@ -1,3 +1,1 @@
-# meta-version-control-forking-lab
-Michael
-Front-end
+Michael, Front-end 
